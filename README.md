@@ -1,6 +1,3 @@
-TODO: New Badge
-[![](https://images.microbadger.com/badges/image/dahlb/alpine-flexget.svg)](https://microbadger.com/#/images/dahlb/alpine-flexget "Get your own image badge on microbadger.com")
-
 # Docker-FlexGet
 FlexGet based on a slim [Alpine Linux](https://alpinelinux.org/) container.
 
