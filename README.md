@@ -1,3 +1,5 @@
+[![](https://images.microbadger.com/badges/image/ajpierce/docker-flexget.svg)](https://microbadger.com/images/ajpierce/docker-flexget "Get your own image badge on microbadger.com")
+
 # Docker-FlexGet
 FlexGet based on a slim [Alpine Linux](https://alpinelinux.org/) container.
 
